@@ -1,2 +1,2 @@
-My seconde Git Prject
-Ligne corrig�e
+﻿My seconde Git Prject
+Ligne corrigée
